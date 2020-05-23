@@ -22,7 +22,7 @@ email: daerich@users.sourceforge.net
 # > twitter_username:
 github_username: daerich
 codepen_username: daerich
-dev_username: exampleUser
+dev_username: channel/UCrcbxvR_fQcaOWgrsIR8GTg
 linkedin_username: 390307-daerich
 twitter_username: istdaerich
 
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: <TBD> :D
+about_me_description: TBD :D
 
 # SKILLS SECTION
 # show_skills_card:
@@ -100,7 +100,7 @@ projects:
     # forks:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
-    forks: true
+    forks: false
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
     # - repo1-to-be-excluded
