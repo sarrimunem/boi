@@ -2241,7 +2241,7 @@ js-yaml@~3.7.0:
   integrity sha1-XJZ93YN6m/3KXy3oQlOr6KHAO4A=
   dependencies:
     argparse "^1.0.7"
-    esprima "^2.6.0"
+    esprima "^4.0.0"
 
 jsbn@~0.1.0:
   version "0.1.1"
