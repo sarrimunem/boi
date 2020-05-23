@@ -103,8 +103,8 @@ projects:
     forks: false
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    daerich.github.io.old
-    daerich.github.io
+    - daerich.github.io.old
+    - daerich.github.io
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
