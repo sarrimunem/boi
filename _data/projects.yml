@@ -27,5 +27,6 @@
   #  - tag: Python
   # - tag: Django
 
-- #name: project Z
-  #descr: "You can also set a project without demo link and no tags"
+- name: ScriptHookVDotNet Docs
+  descr: "A Documentation for the ScriptHookVDotNet API by crosire"
+  demo:  https://daerich.dev/heap/docs/shvdn/
