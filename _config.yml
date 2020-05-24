@@ -40,7 +40,7 @@ about_me_description: TBD :D
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: false
+show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
@@ -63,7 +63,7 @@ show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: false
+show_projects: true
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
@@ -105,6 +105,7 @@ projects:
     projects:
     - daerich.github.io.old
     - daerich.github.io
+    - fritzbot
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
