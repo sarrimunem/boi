@@ -26,8 +26,8 @@
 - name: npm
   weight: 3
 
-- #name: gulp
- # weight: 4
+- name: NuGet
+  weight: 2
 
 - name: Visual Studio
   weight: 5
