@@ -11,8 +11,8 @@
 - name: JavaScript
   weight: 3
 
-- #name: Python
- # weight: 2
+- name: Python
+  weight: 2
 
 - name: HTML5
   weight: 2
