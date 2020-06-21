@@ -12,7 +12,7 @@
   weight: 3
 
 - name: Python
-  weight: 2
+  weight: 3
 
 - name: HTML5
   weight: 2
