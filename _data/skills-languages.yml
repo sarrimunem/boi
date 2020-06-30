@@ -36,6 +36,9 @@
   #weight: 1
 
 - name: C++
+  weight: 1
+
+- name: C
   weight: 2
 
 - #name: Ruby
